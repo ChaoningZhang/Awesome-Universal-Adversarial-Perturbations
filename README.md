@@ -9,7 +9,7 @@ Depending on our schdule as well as the request from other authors, we will upda
 If you are willing to help improve this work, we will add your name to the author list in our new updated version.
 
 ## Our other papers related UAP
-Universal adversarial pertur-bations through the lens of deep steganography: Towards a fourier perspective, AAAI2021
+Universal adversarial pertur-bations through the lens of deep steganography: Towards a fourier perspective, AAAI2021 \\
 Universal adversarial trainingwith class-wise perturbations, ICME2021
 Double targeted universal ad-versarial perturbations, ACCV2020
 Cd-uap:  Class discriminativeuniversal adversarial perturbation, AAAI2020
