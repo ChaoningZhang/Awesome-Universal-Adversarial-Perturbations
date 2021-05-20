@@ -16,14 +16,18 @@ CD-UAP:  Class discriminativeuniversal adversarial perturbation, AAAI2020\
 Understanding adversarial ex-amples from the mutual influence of images and perturba-tions, CVPR2020\
 UDH: Universal deephiding for steganography, watermarking, and light field messaging, NeurIPS2020\
 
-## Important papers related to UAP (subjective, list to add)
+## Important papers related to UAP (subjective):
+### feel free to contact us if find any important work missing here
 Universal Adversarial Perturbations, CVPR2017\
 Analysis of Universal Adversarial Perturbations, Arxiv2018\
+Generalizabledata-free objective for crafting universal adversarial per-turbations, TPAMI2018\
 Generative Adversrial Perturbations, CVPR2018\
 Defense against universal adversarial perturbations, CVPR2018\
 Art of singular vectors and universal adversarialperturbations, CVPR2018\
+Ask, acquire, and  attack: Data-free uap generation using class impressions, ECCV2018\
 With friends like these, who  needs  adversaries? NeurIPS2018\
 Universal adversarial perturbation via prior driven uncertaintyapproximation, ICCV2019\
+Defendingagainst  universal  perturbations  with  shared  adversarialtraining, ICCV2019\
 CD-UAP: Class discriminativeuniversal adversarial perturbation, AAAI2020\
 Universal Adversarial Training, AAAI2020\
 Understanding adversarial ex-amples from the mutual influence of images and perturba-tions, CVPR2020\
