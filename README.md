@@ -17,7 +17,7 @@ Understanding adversarial ex-amples from the mutual influence of images and pert
 UDH: Universal deephiding for steganography, watermarking, and light field messaging, NeurIPS2020\
 
 ## Important papers related to UAP (subjective):
-### feel free to contact us if find any important work missing here
+### Feel free to contact us if find any important work missing here
 1 Universal Adversarial Perturbations, CVPR2017\
 2 Analysis of Universal Adversarial Perturbations, Arxiv2018\
 3 Generalizabledata-free objective for crafting universal adversarial per-turbations, TPAMI2018\
