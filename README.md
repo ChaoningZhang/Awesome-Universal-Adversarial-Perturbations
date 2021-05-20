@@ -27,7 +27,7 @@ Universal adversarial perturbation via prior driven uncertaintyapproximation, IC
 CD-UAP: Class discriminativeuniversal adversarial perturbation, AAAI2020\
 Universal Adversarial Training, AAAI2020\
 Understanding adversarial ex-amples from the mutual influence of images and perturba-tions, CVPR2020\
-Universal adversarial pertur-bations through the lens of deep steganography: Towards a fourier perspective, AAAI2021\
+Universal adversarial perturbations through the lens of deep steganography: Towards a fourier perspective, AAAI2021\
 
 
 
