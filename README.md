@@ -8,13 +8,26 @@ The intriguing phenomenon of adversarial examples has attracted significant atte
 Depending on our schdule as well as the request from other authors, we will update its content at a regular basis.
 If you are willing to help improve this work, we will add your name to the author list in our new updated version.
 
-## Our other papers related UAP
+## Our other papers related to UAP
 Universal adversarial pertur-bations through the lens of deep steganography: Towards a fourier perspective, AAAI2021\
 Universal adversarial trainingwith class-wise perturbations, ICME2021\
 Double targeted universal ad-versarial perturbations, ACCV2020\
-Cd-uap:  Class discriminativeuniversal adversarial perturbation, AAAI2020\
+CD-UAP:  Class discriminativeuniversal adversarial perturbation, AAAI2020\
 Understanding adversarial ex-amples from the mutual influence of images and perturba-tions, CVPR2020\
 UDH: Universal deephiding for steganography, watermarking, and light field messaging, NeurIPS2020\
+
+## Important papers related to UAP (subjective, list to add)
+Universal Adversarial Perturbations, CVPR2017\
+Analysis of Universal Adversarial Perturbations, Arxiv2018\
+Generative Adversrial Perturbations, CVPR2018\
+Defense against universal adversarial perturbations, CVPR2018\
+Art of singular vectors and universal adversarialperturbations, CVPR2018\
+With friends like these, who  needs  adversaries? NeurIPS2018\
+Universal adversarial perturbation via prior driven uncertaintyapproximation, ICCV2019\
+CD-UAP: Class discriminativeuniversal adversarial perturbation, AAAI2020\
+Universal Adversarial Training, AAAI2020\
+Understanding adversarial ex-amples from the mutual influence of images and perturba-tions, CVPR2020\
+Universal adversarial pertur-bations through the lens of deep steganography: Towards a fourier perspective, AAAI2021\
 
 
 
