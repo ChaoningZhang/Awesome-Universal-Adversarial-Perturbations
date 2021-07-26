@@ -4,9 +4,9 @@ This is the repository for the IJCAI 2021 paper titled [A Survey on Universal Ad
 ## Abstract
 The intriguing phenomenon of adversarial examples has attracted significant attention in machine learning and what might be more surprising to the community is the existence of universal adversarial perturbations (UAPs), \ie a single perturbation to fool the target DNN for most images. With the focus on UAP against deep classifiers, this survey summarizes the recent progress on universal adversarial attacks, discussing the challenges from both the attack and defense sides, as well as the reason for the existence of UAP. We aim to extend this work as a **dynamic** survey that will **regularly update its content** to follow new works regarding UAP or universal attack in a wide range of domains, such as image, audio, video, text, etc. Relevant update will be discussed in this repositoty. We welcome authors of future works in this field to contact us for including your new findings. 
 
-## Recognizing contribution by adding the name in the author list
+## Recognizing contribution by adding author name in the updated arxiv version
 Depending on our schdule as well as the request from other authors, we will update its content at a regular basis.
-If you are willing to help improve this work, we will add your name to the author list in our new updated version.
+If you are willing to help improve this work, we are happy to add your name to the author list in the updated arxiv version.
 
 ## Our other papers related to UAP
 Towards Data-free Universal Adversarial Perturbations and No-box Attack (tentative tile), ICCV2021\
